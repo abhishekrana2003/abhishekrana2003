@@ -1,39 +1,73 @@
 
+ 
 
-<p align="center">
-<a href="https://github.com/abhishekrana2003"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekrana2003&show_icons=true&hide=stars&theme=radical"></a>
-<a href="https://github.com/abhishekrana2003"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrana2003&layout=compact&theme=radical&card_width=250"></a>
-<p align = "center"> 
+### <p align="center"> Hey there! I'm Abhishek rana </p>
 
-<img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
+### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; coding Enthusiast &nbsp; | &nbsp; singer &nbsp;  </p>
+
+##
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<br/>
+
+<p align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/abhishekrana2003"><img src="https://img.shields.io/github/followers/abhishekrana2003?color=%234CC61E&label=GitHub%20Followers%20%3A"/> &nbsp; &nbsp; <a 
+<br/>
+
+
+<br/>
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&logoColor=FFA518)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
+
+<br/>
+
+<h2>⚙️ GitHub Analytics</h2>
+
+<br/>
+       
+<a href="https://github.com/abhishekrana2003">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manas2403&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Manas2403&theme=chartreuse-dark">
+  
 </a>
 
-<img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
-</a>
+<br/>
 
+#
+
+<br/>
+
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abhishekrana2003&theme=react-dark&hide_border=true&area=true)
+
+#
+
+<br/>
+
+<div align="center">
+<h3> 🤝🏻 Connect With Me @ </h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/abhishek-rana-130003203/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/abhishekrana2003)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/abhishekrana2003/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:rana.abhi2003@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/Abhishe37280501)
+
+</div>
+
+<br/>
+
+<p align="center"> 
+  Visitor Count
+  
+  </br>
+  <img src="https://profile-counter.glitch.me/abhishekrana2003/count.svg" />
 </p>
-<!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="waving_hello" width=45%>
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=45%>
-
-### 🌱 Currently Learning:
-<p1>- Internet of Things (IoT)
-- c++,c</p1>
-
-
-
-
-
-### 📛 My Badges:
-<!-- Badges to be Added
-<p align="center">
-<img src="https://user-images.githubusercontent.com/61582763/101490318-2e4bff00-3988-11eb-9584-2e3694562c4c.png" height="75px" alt="My first Hacktoberfest (2020)">
-</p>
--->
-
-<p align = "center">
-<a href="https://github.com/abhishekrana2003"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekrana2003&show_icons=true&hide=stars&theme=radical"></a>
-<a href="https://github.com/abhishekrana2003"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrana2003&layout=compact&theme=radical&card_width=250"></a>
-</p>
-<!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
