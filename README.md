@@ -34,8 +34,8 @@
        
 <a href="https://github.com/abhishekrana2003">
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manas2403&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Manas2403&theme=chartreuse-dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhishekrana2003&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=abhishekrana2003&theme=chartreuse-dark">
   
 </a>
 
