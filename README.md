@@ -1,9 +1,4 @@
-@@ -1,20 +1,28 @@
-<img src="https://user-images.githubusercontent.com/61582763/123809902-9e63a780-d90f-11eb-866a-1aab712d7de2.gif" width=100% alt="Banner Image">
-<!-- Icon info:
-Creator: Gregor Cresnar
-Colours used: #AE16B3 #426699 
--->
+
 
 <p align="center">
 <a href="https://github.com/abhishekrana2003"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekrana2003&show_icons=true&hide=stars&theme=radical"></a>
