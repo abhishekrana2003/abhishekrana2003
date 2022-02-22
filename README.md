@@ -23,8 +23,8 @@ Colours used: #AE16B3 #426699
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=45%>
 
 ### 🌱 Currently Learning:
-- Internet of Things (IoT)
-- c++,c
+<p1>- Internet of Things (IoT)
+- c++,c</p1>
 
 
 
