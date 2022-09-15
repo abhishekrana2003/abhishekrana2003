@@ -3,7 +3,7 @@
 
 ### <p align="center"> Hey there! I'm Abhishek rana </p>
 
-### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; coding Enthusiast &nbsp; | &nbsp; singer &nbsp;  </p>
+### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; coding Enthusiast &nbsp; | &nbsp; singer and guitarist &nbsp;  </p>
 
 ##
 
